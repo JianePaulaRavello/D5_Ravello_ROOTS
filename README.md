@@ -13,10 +13,10 @@ The core touchpoint is a clickable Instagram Story prototype made in Figma. It h
 
 | File | What it is | Channel | Spec |
 |---|---|---|---|
-| `1_Touchpoint/D5_Ravello_touchpoint_frame1.png` | Frame 1: "What was your first word in your language?" | Instagram Story | 393 × 852 px, PNG |
-| `1_Touchpoint/D5_Ravello_touchpoint_frame2.png` | Frame 2: "Ask someone" (chat with Lola, grandma) | Instagram Story | 393 × 852 px, PNG |
-| `1_Touchpoint/D5_Ravello_touchpoint_frame3.png` | Frame 3: "Write one word on a sticker" | Instagram Story | 393 × 852 px, PNG |
-| `1_Touchpoint/D5_Ravello_touchpoint_frame4.png` | Frame 4: "Bring it to ROOTS", date and place | Instagram Story | 393 × 852 px, PNG |
+| `1_Touchpoint/D5_Ravello_frame1.png` | Frame 1: "What was your first word in your language?" | Instagram Story | 393 × 852 px, PNG |
+| `1_Touchpoint/D5_Ravello_frame2.png` | Frame 2: "Ask someone" (chat with Lola, grandma) | Instagram Story | 393 × 852 px, PNG |
+| `1_Touchpoint/D5_Ravello_frame3.png` | Frame 3: "Write one word on a sticker" | Instagram Story | 393 × 852 px, PNG |
+| `1_Touchpoint/D5_Ravello_frame4.png` | Frame 4: "Bring it to ROOTS", date and place | Instagram Story | 393 × 852 px, PNG |
 | `D5_Ravello_capture.mp4` (Canvas, not in this repository) | Screen capture of the prototype, with subtitles and no voice-over | Instagram Story (demo of the touchpoint) | 1080 × 1920 px, MP4, 33.5 s |
 
 ## 2_Campaign
@@ -34,8 +34,8 @@ The motion principle is a luggage tag that is pulled off a suitcase and swings, 
 
 | File | What it is | Channel | Spec |
 |---|---|---|---|
-| `3_Motion/D5_Ravello_motion_still_35.png` | Still at 0–2.4 s: tag pulled off the suitcase and written on | Instagram Story / screen at the sticker desk | 1080 × 1920 px, PNG |
-| `3_Motion/D5_Ravello_motion_still_60.png` | Still at 2.4–5 s: the question | Instagram Story / screen at the sticker desk | 1080 × 1920 px, PNG |
-| `3_Motion/D5_Ravello_motion_still_100.png` | Still at 5–8 s: one word, their answer | Instagram Story / screen at the sticker desk | 1080 × 1920 px, PNG |
-| `3_Motion/D5_Ravello_motion_still_140.png` | Still at 8–10 s: date, place, hashtag | Instagram Story / screen at the sticker desk | 1080 × 1920 px, PNG |
+| `3_Motion/D5_Ravello_motion_still_1.png` | Still at 0–2.4 s: tag pulled off the suitcase and written on | Instagram Story / screen at the sticker desk | 1080 × 1920 px, PNG |
+| `3_Motion/D5_Ravello_motion_still_2.png` | Still at 2.4–5 s: the question | Instagram Story / screen at the sticker desk | 1080 × 1920 px, PNG |
+| `3_Motion/D5_Ravello_motion_still_3.png` | Still at 5–8 s: one word, their answer | Instagram Story / screen at the sticker desk | 1080 × 1920 px, PNG |
+| `3_Motion/D5_Ravello_motion_still_4.png` | Still at 8–10 s: date, place, hashtag | Instagram Story / screen at the sticker desk | 1080 × 1920 px, PNG |
 | `D5_Ravello_motion.mp4` (Canvas, not in this repository) | The motion piece | Instagram Story and loop on a screen | 1080 × 1920 px, MP4, 10 s |
